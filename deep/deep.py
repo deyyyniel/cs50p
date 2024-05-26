@@ -1,7 +1,7 @@
 def main():
     # Read user inut and convert it to lowercase
     user_input = (
-        input("Please enter the Answer to the Great Question: ").strip().lower()
+        input("What is the Answer to the Great Question of Life, the Universe, and Everything? ").strip().lower()
     )
 
     # Check if the user input matches any of the accepted responses

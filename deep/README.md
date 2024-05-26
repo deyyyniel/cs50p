@@ -14,7 +14,7 @@
 >
 > “Yes…!”
 >
-> “Is…” said Deep Thought, and paused.z
+> “Is…” said Deep Thought, and paused.
 >
 > “Yes…!”
 >
